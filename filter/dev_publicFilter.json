@@ -1,0 +1,20 @@
+{
+    "word": {
+        "whiteList": [
+            "전기요금",
+        ],
+        "blackList": [
+            "섹파",
+            "카지노",
+        ]
+    },
+    "number": {
+        "whiteList": [
+            
+        ],
+        "blackList": [
+            
+        ]
+    }
+}
+
